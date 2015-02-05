@@ -11,3 +11,6 @@ I will be posting deadlines in this github. Any configs that are created will be
 | Albert      | 609-851-5225 |   amizenko@gmail.com        |
 | Daryl       | 862-201-3519 |   dp255@njit.edu            |
 | RDS         | 973-773-0344 |   capstone@e-compas.com     |
+
+
+When using github, please make sure any changes you give a comment on it. So I can keep track of who changed or added what for anything :)
